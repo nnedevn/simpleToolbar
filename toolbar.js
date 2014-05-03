@@ -74,10 +74,3 @@ var oojs = (function(oojs) {
 
 }(oojs || {}));
 
-// var toolBar = oojs.createToolbar("myToolbar");
-
-// var = toolbarItem = toolbar.items[0];
-
-// toolbarItem.enabled = true; // or false
-
-// var enabled = toolbarItem.enabled;
